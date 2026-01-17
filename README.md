@@ -73,6 +73,32 @@ Charts:
 - Incentivize auto-payment methods
 
 ---
+## 📊 Power BI Dashboard — Customer Churn Analysis
+
+An interactive Power BI dashboard was built to analyze churn behavior across customer segments and identify high-risk groups.
+
+### 🎯 Key KPIs
+- Total Customers  
+- Churned Customers  
+- Churn Rate (%)  
+- Average Customer Tenure  
+
+### 🔍 Key Insights
+- Customers on month-to-month contracts show the highest churn rates.  
+- Fiber optic internet users have significantly higher churn.  
+- Electronic check payment method is associated with the highest churn.  
+- Customers in the first 6–12 months have the highest churn risk.
+
+### 💡 Business Recommendations
+- Launch early retention programs for new customers.  
+- Promote long-term contract incentives.  
+- Improve fiber service reliability and support.  
+- Encourage auto-payment adoption.
+
+### 📁 Deliverables
+- Power BI Dashboard (.pbix)  
+- Python EDA Notebook  
+- Dataset and cleaning steps documented
 
 ## Author
 Mahmoud Zamani — Data Analyst  
